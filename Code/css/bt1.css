@@ -1,0 +1,94 @@
+* {
+    box-sizing: border-box;
+    font-weight: 400;
+    font-family: "Fira Sans";
+    line-height: 1.5;
+}
+
+body {
+    margin: 8px;
+    background-color: rgb(219, 218, 218);
+}
+
+.page-container {
+    width: 1000px;
+    margin: 100px auto;
+    border: 1px gray solid;
+    background-color: white;
+    -webkit-box-shadow: 12px 12px 38px -10px rgba(88, 74, 194, 0.57);
+    -moz-box-shadow: 12px 12px 38px -10px rgba(88, 74, 194, 0.57);
+    box-shadow: 12px 12px 38px -10px rgba(88, 74, 194, 0.57);
+}
+
+.tit {
+    color: #979797;
+    padding-top: 50px;
+}
+
+.title {
+    height: 200px;
+    background-color: #000;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+a {
+    text-decoration: none;
+    color: #979797;
+}
+
+.container {
+    width: 85%;
+    margin: 50px auto;
+}
+
+.bold-text {
+    font-weight: 600;
+    font-size: 26px;
+}
+
+.part {
+    margin-bottom: 50px;
+}
+
+p {
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.part a {
+    color: rgb(71, 71, 192);
+}
+
+.image-container {
+    text-align: center;
+    margin: auto;
+    margin-bottom: 30px;
+    width: 70%;
+    background-color: rgb(187, 184, 184);
+}
+
+.image-container img {
+    width: 100%;
+}
+
+.image-container p {
+    font-style: italic;
+    margin-top: 0px;
+    padding: 10px 0;
+    font-size: 14px;
+}
+
+.color-text {
+    color: #d72d2d;
+}

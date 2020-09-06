@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+.BP {
+    display: flex;
+    justify-content: space-around;
+    width: 700px;
+    height: 500px;
+    margin: auto;
+    background-color: greenyellow;
+    flex-direction: row;
+    align-items: center;
+    font-weight: bold;
+}
+
+.RV {
+    display: flex;
+    justify-content: flex-start;
+    width: 800px;
+    margin: auto;
+    background-color: lightblue;
+    flex-direction: column-reverse;
+    align-items: center;
+    font-style: italic;
+}

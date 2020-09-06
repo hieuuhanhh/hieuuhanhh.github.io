@@ -1,0 +1,25 @@
+.para1 {
+    width: 900px;
+    margin: auto;
+}
+
+a:visited {
+    color: cornflowerblue;
+}
+
+.heading {
+    color: #5C0C1C;
+}
+
+.para2 {
+    width: 900px;
+    margin: auto;
+}
+
+.check::after {
+    content: "Check it out";
+}
+
+.check:hover:after {
+    content: "Official";
+}
