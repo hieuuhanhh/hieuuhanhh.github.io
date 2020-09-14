@@ -65,6 +65,7 @@
 .photo img {
     transition: 0.2s;
     width: 100%;
+ 
 }
 
 .photo img:hover {
