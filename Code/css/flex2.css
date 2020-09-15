@@ -65,7 +65,7 @@
 .photo img {
     transition: 0.2s;
     width: 100%;
- 
+
 }
 
 .photo img:hover {
@@ -93,7 +93,7 @@
 }
 
 .photo a:first-of-type {
-    height: 270px;
+    height: 240px;
     width: 400px;
     overflow: hidden;
     object-fit: cover;
